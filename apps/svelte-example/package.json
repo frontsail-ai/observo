@@ -13,7 +13,7 @@
     "@aspicio/core": "workspace:*",
     "@aspicio/elements": "workspace:*",
     "@aspicio/svelte": "workspace:*",
-    "svelte": "^5.56.9",
+    "svelte": "^5.56.10",
     "three": "^0.185.1"
   },
   "devDependencies": {
