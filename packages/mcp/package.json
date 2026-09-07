@@ -22,11 +22,11 @@
     "@modelcontextprotocol/sdk": "^1.30.0",
     "@resvg/resvg-js": "^2.6.2",
     "three": "^0.185.1",
-    "zod": "^4.4.3"
+    "zod": "^4.5.4"
   },
   "devDependencies": {
     "@aspicio/agent-tools": "workspace:*",
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.4.1",
     "typescript": "~7.0.2",
     "vite-plus": "catalog:"
   },
